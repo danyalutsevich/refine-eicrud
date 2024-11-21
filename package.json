@@ -1,0 +1,22 @@
+{
+  "name": "refine-eicrud",
+  "version": "1.0.0",
+  "description": "Refine dataprovider for eicrud backend",
+  "main": "dist/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@refinedev/core": "^4.56.0"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "build": "tsc"
+  },
+  "keywords": [
+    "refine",
+    "eicrud"
+  ],
+  "author": "danyalutsevich",
+  "license": "ISC"
+}
